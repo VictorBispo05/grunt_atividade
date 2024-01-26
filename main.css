@@ -1,0 +1,17 @@
+.Header {
+  border-bottom: solid #000 3px;
+}
+body {
+  background-color: #e9e9e9;
+  font-family: 'Roboto', sans-serif;
+}
+body h1 {
+  color: #FF5E0E;
+}
+.content {
+  display: flex;
+  justify-content: space-around;
+}
+body img {
+  margin-top: 20px;
+}
